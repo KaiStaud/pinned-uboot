@@ -1,0 +1,6 @@
+pinned-uboot (1.0.0-1) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- sta <>  Fri, 09 Feb 2024 08:33:20 -0500

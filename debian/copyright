@@ -1,0 +1,38 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: pinned-uboot
+Source: <url://example.com>
+#
+# Please double check copyright with the licensecheck(1) command.
+
+Files:     usr/lib/u-boot/am335x_boneblack/MLO
+           usr/lib/u-boot/am335x_boneblack/u-boot.img
+           usr/lib/u-boot/am335x_boneblack/uboot.elf
+           usr/lib/u-boot/am335x_evm/MLO
+           usr/lib/u-boot/am335x_evm/u-boot.img
+           usr/lib/u-boot/am335x_evm/uboot.elf
+           usr/lib/u-boot/am57xx_evm/MLO
+           usr/lib/u-boot/am57xx_evm/uboot.elf
+           usr/lib/u-boot/dra7xx_evm/MLO
+           usr/lib/u-boot/dra7xx_evm/uboot.elf
+           usr/lib/u-boot/igep00x0/MLO
+           usr/lib/u-boot/igep00x0/u-boot.img
+           usr/lib/u-boot/igep00x0/uboot.elf
+           usr/lib/u-boot/nokia_rx51/u-boot.bin
+           usr/lib/u-boot/nokia_rx51/uboot.elf
+           usr/lib/u-boot/omap3_beagle/MLO
+           usr/lib/u-boot/omap3_beagle/u-boot.img
+           usr/lib/u-boot/omap3_beagle/uboot.elf
+           usr/lib/u-boot/omap4_panda/MLO
+           usr/lib/u-boot/omap4_panda/u-boot.img
+           usr/lib/u-boot/omap4_panda/uboot.elf
+Copyright: __NO_COPYRIGHT_NOR_LICENSE__
+License:   __NO_COPYRIGHT_NOR_LICENSE__
+
+#----------------------------------------------------------------------------
+# huge files   (skipped):
+#         usr/lib/u-boot/am57xx_evm/u-boot.img
+#         usr/lib/u-boot/dra7xx_evm/u-boot.img
+
+#----------------------------------------------------------------------------
+# Files marked as NO_LICENSE_TEXT_FOUND may be covered by the following
+# license/copyright files.
